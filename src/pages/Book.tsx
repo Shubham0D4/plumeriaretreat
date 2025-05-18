@@ -139,7 +139,7 @@ const Book: React.FC = () => {
                         </div>
                         <p className="font-bold text-brunswick-green">
                           {formatCurrency(accommodation.price)}
-                          <span className="text-black/60 font-normal text-sm"> / night</span>
+                          <span className="text-black/60 font-normal text-sm">night</span>
                         </p>
                       </div>
                     </div>
